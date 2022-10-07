@@ -5574,7 +5574,7 @@ function init() {
 		<div id="nav" class="mdui-toolbar nexmoe-item nav-style"> </div>
     </div>
 	<div class="mdui-container-fluid">
-		<div id="head_md" class="mdui-typo nexmoe-item" style="display:none;padding: 20px 0;"></div>
+		<div id="head_md" class="nexmoe-item""></div>
     <p><img src="https://i.ibb.co/HpKzhGQ/Anime-Batch-DDL-Banner.jpg" alt=""></p>
     <h1 id="selamat-datang-di-proyek-pencadangan-anime-google-drive">Selamat Datang di Proyek Pencadangan Anime Google Drive</h1>
     <h1 id="discord-">Discord :</h1>
