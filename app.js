@@ -5575,6 +5575,14 @@ function init() {
     </div>
 	<div class="mdui-container-fluid">
 		<div id="head_md" class="mdui-typo nexmoe-item" style="display:none;padding: 20px 0;"></div>
+    <p><img src="https://i.ibb.co/HpKzhGQ/Anime-Batch-DDL-Banner.jpg" alt=""></p>
+    <h1 id="selamat-datang-di-proyek-pencadangan-anime-google-drive">Selamat Datang di Proyek Pencadangan Anime Google Drive</h1>
+    <h1 id="discord-">Discord :</h1>
+    <p><a href="https://discord.gg/6aZPrn6ndw"><img src="https://i.ibb.co/KwcM0x4/discord-v2.png" alt=""></a><br>
+    <a href="https://discord.gg/6aZPrn6ndw">https://discord.gg/6aZPrn6ndw</a><br></p>
+    <h1 id="donasi-">Donasi :</h1>
+    <p><a href="https://saweria.co/animebatchddl">https://saweria.co/animebatchddl</a><br>
+    <a href="https://trakteer.id/animebatchddl">https://trakteer.id/animebatchddl</a><br></p>
 		<div id="content" class="nexmoe-item"></div>
 	 	<div id="readme_md" class="mdui-typo nexmoe-item" style="display:none; padding: 20px 0;"></div>
   </div>
@@ -5583,8 +5591,8 @@ function init() {
   if (UI.credits) {
     html += `
     <div style="margin-bottom: 20px" class="mdui-center mdui-text-center">
-      <a href="https://github.com/cheems/goindex-extended" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=cheems&amp;message=goindex-extended&amp;color=1E89F2&amp;labelColor=374455&amp;logo=github" alt="cheems - goindex-extended">
+      <a href="https://t.me/arakurumi" target="_blank">
+        <img src="https://img.shields.io/endpoint?url=https://tg.sumanjay.workers.dev/arakurumi&style=social&logo=telegram&link=https://t.me/arakurumi" alt="Telegram Groups">
       </a>
     </div>
     </div>
