@@ -5524,6 +5524,7 @@ if (UI.dark_mode) {
   );
 }
 
+
 if (UI.hide_actions_tab) {
   document.write(
     "<style>.dummyclass{display: none!important}</style>"
@@ -5573,19 +5574,16 @@ function init() {
 	<div class="mdui-container-fluid">
 		<div id="nav" class="mdui-toolbar nexmoe-item nav-style"> </div>
     </div>
-	<div class="mdui-container-fluid">
-		<div id="head_md" class="nexmoe-item""></div>
-    <p><img src="https://i.ibb.co/HpKzhGQ/Anime-Batch-DDL-Banner.jpg" alt=""></p>
-    <h1 id="selamat-datang-di-proyek-pencadangan-anime-google-drive">Selamat Datang di Proyek Pencadangan Anime Google Drive</h1>
-    <h1 id="discord-">Discord :</h1>
-    <p><a href="https://discord.gg/6aZPrn6ndw"><img src="https://i.ibb.co/KwcM0x4/discord-v2.png" alt=""></a><br>
-    <a href="https://discord.gg/6aZPrn6ndw">https://discord.gg/6aZPrn6ndw</a><br></p>
-    <h1 id="donasi-">Donasi :</h1>
-    <p><a href="https://saweria.co/animebatchddl">https://saweria.co/animebatchddl</a><br>
-    <a href="https://trakteer.id/animebatchddl">https://trakteer.id/animebatchddl</a><br></p>
+	  <div class="mdui-container-fluid">
+    <div id="head_md" class="mdui-typo nexmoe-item" style="padding: 20px 0;"><p><img src="https://telegra.ph/file/7c1083d15ecf856397e9a.png" alt=""></p>
+    <h1 id="welcome-sekai"><center>Welcome to SeKai Drive!</center></h1>
+    <h1 id="Telegram">Telegram :</h1>
+    <a href="https://t.me/arakurumi"><img src="https://cdn.statically.io/gh/arakurumi/goindex-extended/df011c43/img/join-telegram.png" height="40" style="border:0px;height:40px;" alt=""></a>
+    <h1 id="Donate">Donate :</h1>
+    <p><a href="https://trakteer.id/kqrumi" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a></p>
+    </div>
 		<div id="content" class="nexmoe-item"></div>
 	 	<div id="readme_md" class="mdui-typo nexmoe-item" style="display:none; padding: 20px 0;"></div>
-  </div>
   <div class="mdui-center mdui-text-center mdui-text-color-blue-grey-5001" style="margin-bottom: 20px">${UI.footer_text}</div>
   `;
   if (UI.credits) {
@@ -5784,13 +5782,23 @@ function list(path) {
 	  <div id="count" class="mdui-hidden mdui-center mdui-text-center mdui-m-b-3 mdui-typo-subheading mdui-text-color-blue-grey-500">Total <span class="number"></span> item(s)</div>
 	 </div>
 	`;
+  var head_md = `
+  <div id="head_md" class="mdui-typo nexmoe-item" style="padding: 20px 0;"><p><img src="https://telegra.ph/file/7c1083d15ecf856397e9a.png" alt=""></p>
+  <h1 id="welcome-sekai"><center>Welcome to SeKai Drive!</center></h1>
+  <h1 id="Telegram">Telegram Groups :</h1>
+  <a href="https://t.me/arakurumi"><img src="https://telegra.ph/file/ad39d4877cf0958ee96a3.png" alt="" width="70" height="70"></a>
+  <h1 id="Donate">Nyawer Anya :</h1>
+  <p><a href="https://trakteer.id/kqrumi" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a></p>
+  </div>
+  `
   $("#content").html(content);
   var password = localStorage.getItem("password" + path);
   $("#list").html(
     `<div class="mdui-progress"><div class="mdui-progress-indeterminate"></div></div>`
   );
   $("#readme_md").hide().html("");
-  $("#head_md").hide().html("");
+  $("#head_md").show();
+  //$("#head_md").show().html();
   function successResultCallback(res, path, prevReqParams) {
     $("#list")
       .data("nextPageToken", res.nextPageToken)
