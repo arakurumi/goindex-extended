@@ -5578,7 +5578,7 @@ function init() {
     <div id="head_md" class="mdui-typo nexmoe-item" style="padding: 20px 0;"><p><img src="https://telegra.ph/file/7c1083d15ecf856397e9a.png" alt=""></p>
     <h1 id="welcome-sekai"><center>Welcome to SeKai Drive!</center></h1>
     <h1 id="Telegram">Telegram :</h1>
-    <a href="https://t.me/arakurumi"><img src="https://cdn.statically.io/gh/arakurumi/goindex-extended/df011c43/img/join-telegram.png" height="40" style="border:0px;height:40px;" alt=""></a>
+    <a href="https://t.me/arakurumi"><img src="https://cdn.statically.io/gh/arakurumi/goindex-extended/df011c43/img/join-telegram.png" width="200" height="40" alt=""></a>
     <h1 id="Donate">Donate :</h1>
     <p><a href="https://trakteer.id/kqrumi" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a></p>
     </div>
