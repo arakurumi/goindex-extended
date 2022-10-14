@@ -5577,9 +5577,22 @@ function init() {
 	  <div class="mdui-container-fluid">
     <div id="head_md" class="mdui-typo nexmoe-item" style="padding: 20px 0;"><p><img src="https://telegra.ph/file/7c1083d15ecf856397e9a.png" alt=""></p>
     <h1 id="welcome-sekai"><center>Welcome to SeKai Drive!</center></h1>
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fsekai.cloud%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fsekai.cloud%2F&label=%F0%9F%91%80&labelColor=%231e252f&countColor=%2329303a&style=flat" /></a>
+    <p>- Tanpa Iklan</p>
+    <p>- Bisa streaming disini</p>
+    <p>- Bisa download disini</p>
+    <p>- Download/Streaming Anime sub Indo masuk ke drive Kuhaku (Files)</p>
+    <p>- Download/Streaming Anime/Film Raw masuk ke drive Kuhaku (International)</p>
+    <p>- Download/Streaming Anime sub English masuk ke drive ASW atau Judas (HEVC)</p>
+    <p>- Tombol pencarian hanya untuk 1 drive</p>
+    <p>- Streaming/Donwload lemot? Pakai alternatif </p><a href="https://bakarumi.me">BakaRumi</a>
     <h1 id="Telegram">Telegram :</h1>
-    <a href="https://t.me/arakurumi"><img src="https://cdn.statically.io/gh/arakurumi/goindex-extended/df011c43/img/join-telegram.png" width="200" height="40" alt=""></a>
+    <p>- Downloader Bot </p>
+    <p>- Mirror / Leech Bot </p>
+    <a href="https://t.me/arakurumi"><img src="https://cdn.statically.io/gh/arakurumi/goindex-extended/df011c43/img/join-telegram.png" width="157" alt=""></a>
     <h1 id="Donate">Donate :</h1>
+    <h4>- Wanna support Me? Ehe~</h4>
+    <p>- Donasi akan digunakan untuk membiayai Server, Telegram Premium, Mega/Uptobox Premium, dll</p>
     <p><a href="https://trakteer.id/kqrumi" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a></p>
     </div>
 		<div id="content" class="nexmoe-item"></div>
