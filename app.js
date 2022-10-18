@@ -5585,13 +5585,13 @@ function init() {
     <p>- Download/Streaming Anime/Film Raw masuk ke drive Kuhaku (International)</p>
     <p>- Download/Streaming Anime sub English masuk ke drive ASW atau Judas (HEVC)</p>
     <p>- Tombol pencarian hanya untuk 1 drive</p>
-    <p>- Streaming/Donwload lemot? Pakai alternatif </p><a href="https://bakarumi.me">BakaRumi</a>
+    <p>- Streaming/Donwload lemot? Pakai alternatif <a href="https://bakarumi.me">BakaRumi</a></p>
     <h1 id="Telegram">Telegram :</h1>
     <p>- Downloader Bot </p>
     <p>- Mirror / Leech Bot </p>
     <a href="https://t.me/arakurumi"><img src="https://cdn.statically.io/gh/arakurumi/goindex-extended/df011c43/img/join-telegram.png" width="157" alt=""></a>
     <h1 id="Donate">Donate :</h1>
-    <h4>- Wanna support Me? Ehe~</h4>
+    <p>- Wanna support Me? Ehe~</p>
     <p>- Donasi akan digunakan untuk membiayai Server, Telegram Premium, Mega/Uptobox Premium, dll</p>
     <p><a href="https://trakteer.id/kqrumi" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a></p>
     </div>
