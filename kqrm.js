@@ -5559,8 +5559,8 @@ function init() {
   if (UI.credits) {
     html += `
     <div style="margin-bottom: 20px" class="mdui-center mdui-text-center">
-      <a href="https://github.com/cheems/goindex-extended" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=cheems&amp;message=goindex-extended&amp;color=1E89F2&amp;labelColor=374455&amp;logo=github" alt="cheems - goindex-extended">
+      <a href="https://t.me/arakurumi" target="_blank">
+        <img src="https://img.shields.io/endpoint?url=https://tg.sumanjay.workers.dev/arakurumi&style=social&logo=telegram&link=https://t.me/arakurumi" alt="Telegram Groups">
       </a>
     </div>
     </div>
